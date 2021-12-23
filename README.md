@@ -1,0 +1,1 @@
+### Revisar en la carpeta doc la orientación del proyecto y el informe.
